@@ -3,9 +3,12 @@ import './App.css';
 
 function App() {
   return (
-    <div><h1>Amazon</h1></div>
+    <>
+      <div className='header'><h2>Amazon</h2></div>
+    </>
+
   );
-    
+
 }
 
 export default App;
